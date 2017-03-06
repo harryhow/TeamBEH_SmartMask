@@ -3,7 +3,7 @@
 
 This is the prototyping arduino file for Smart Mask project.
 
-We use DHT22 temp sensor with Arduino Yun to simulate air pollution. 
+We use DHT22 temp sensor's humid data with Arduino Yun to simulate air pollution. 
 
 When LED turns GREEN means air pollution level is ok, when LED turns RED means air quality is BAD! 
 
