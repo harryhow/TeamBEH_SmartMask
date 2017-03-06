@@ -1,6 +1,10 @@
-# TeamBEH: SmartMask
+# TeamBEH (team#5) : SmartMask
+### Member: Ben, Ethan and Harry
+
 This is the prototyping arduino file for Smart Mask project.
 
 We use DHT22 temp sensor with Arduino Yun to simulate air pollution. 
+
+When LED turns GREEN means air pollution level is ok, when LED turns RED means air quality is BAD! 
 
 ![](https://lh3.googleusercontent.com/oFTcnAjpcrKiOww6FD7KxS2RS919zozzT34u5KQLf7nhmbYndq5qAYIcT2tPBmwejAkcregTMkEbIoXnto22RTy1M1bbek82tQrrpjU6si8BJbAfDTL0zo3qLS4ZWpNdsWRDiSpN4KaZojMBg-PTc1bKQ66yt7XZOGF1HausRRQWU5jTxxClYSs9IPO_TkUknqJj6MLGILgkNmPLia9uciFqyg3SM3lpa4mH-qKa_I18UBkoXutb02KFhnxDfyHECZn77zIBL5AASP5bIMFDQABXVRtuODLseTJiXtaGtHhCaXI-Zd9USBXp4dXW985NCfux666efxS3V-0o0gWA6sG-RNJURtqOUUgRMilY9B_ZmB31mJ7wGe1501YDMai8YEChyv1yp_1sTRzd1L7jxp1kOyZIXLmOIlFtaOXDSMeQwDDfaoWBxnJeKk2UoToe72Ye_t-wn9eS6gAV1A_Xi2N3vNBlfJwB0S1ULA8Au4UZflpiR26rV7qM1FUZaoRCbHKEnXvI0bYcuYM4YI4U85PldFRwUOfeilciXMp_1BF9gr8zYO_YA-c2SLkHVkOOCH10BVZ0h504PxSoo8kLb6SMOoBqJhCgO7xDSxVHll-3FkJSqXnezQ=w554-h739-no)
